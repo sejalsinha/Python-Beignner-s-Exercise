@@ -1,0 +1,5 @@
+A.Create a program that asks the user to enter their name their age. Print out a message addressed to them that tells them the year that they will turn 100 years old
+A=int(input('Tell us your age'))
+B=int(100-A)
+C=int(2019+B)
+print('You will be a 100 years old by',C)
